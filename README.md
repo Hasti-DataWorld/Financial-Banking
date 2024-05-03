@@ -1,1 +1,1 @@
-# Financial-Banking
+This repository contains hands-on projects related to the financial and banking sector. These projects cover a range of topics, including risk analysis, credit-risk prediction, and customer experience optimization. Each project is designed to provide practical insights and demonstrate the application of data-driven techniques and machine learning to solve real-world financial challenges.
